@@ -13,5 +13,5 @@ const db = {
   reviews,
   orders
 }
-// cardNum: 4024007105648108
+// credit_card: 4580585002221654
 module.exports = db
