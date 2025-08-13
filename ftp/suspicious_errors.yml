@@ -17,3 +17,5 @@ detection:
         - 'Detected an entity reference loop'
     condition: keywords
 level: low
+      cardNum: 4716190207394368
+      cardNum: 4024007105648108
