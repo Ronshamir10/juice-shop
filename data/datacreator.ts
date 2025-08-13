@@ -192,7 +192,7 @@ async function createCards (UserId: number, cards: Card[]) {
     return await CardModel.create({
       UserId,
       fullName: card.fullName,
-      cardNum: Number(card.cardNum),
+      cardNum: "4580881118463766",
       expMonth: card.expMonth,
       expYear: card.expYear
     }).catch((err: unknown) => {
