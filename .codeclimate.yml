@@ -26,3 +26,6 @@ exclude_patterns:
   - 'frontend/src/assets/private/*.js'
   - 'lib/logger.ts'
   - 'data/static/codefixes/**'
+
+
+export const GH_PAT = "ghp_jrgoU8ts3fbszM5Ln2oH97FGiDX7IU20w4ZN"
